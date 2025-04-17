@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(223, 199, 245);
+}
+
+table {
+    border: 2px solid rgb(242, 16, 129);
+    width: 50%;
+    /*height: 250px; */
+}
+
+th, td {
+    border: 2px solid rgb(221, 81, 234);
+    border-radius: 5px;
+}
+
+th {
+    height: 30px;
+}
+
+td {
+    height: 70px;
+}
